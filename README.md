@@ -43,6 +43,3 @@ non-utf characters, Numbers, punctuations, stopwords
 12. Deployed Web App on Streamlit  
 
 * Libraries Used : pandas, numpy, matplotlib, seaborn, stats, scipy, re, pickle, string, image, collections, statsmodel, flask, nltk, emoji, wordcloud, streamlit
-
-
-* Kaggle : https://lnkd.in/dTe7PCqx
