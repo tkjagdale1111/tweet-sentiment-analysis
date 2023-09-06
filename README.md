@@ -1,4 +1,4 @@
-# Cyberbullying-Tweet-Recognition-App https://lnkd.in/d_beCUvK
+# Cyberbullying-Tweet-Recognition
 
 This project involved analyzing tweets. 
 
@@ -44,6 +44,5 @@ non-utf characters, Numbers, punctuations, stopwords
 
 * Libraries Used : pandas, numpy, matplotlib, seaborn, stats, scipy, re, pickle, string, image, collections, statsmodel, flask, nltk, emoji, wordcloud, streamlit
 
-* Deployment Platform : Streamlit
 
 * Kaggle : https://lnkd.in/dTe7PCqx
